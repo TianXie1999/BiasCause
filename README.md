@@ -14,3 +14,10 @@ This file contains:
 #### Code folder
 
 This folder contains code to generate answers to the questions, evaluate the answer correctness, and classify causal labeling. Note that we delete some code related to confidential google environment, but the workflow (including prompts) has been demonstrated in detail in both our paper and the code folder.
+
+- Gemini_batch_prediction.ipynb: code to generate batch prediction using Vertex AI and Gemini
+- Claude_batch.ipynb: code to generate batch prediction using Vertex AI and Claude
+- Data_and_gemma_inference.ipynb: code to generate answers using an endpoint of Gemma 2
+- Autorater_evaluation.ipynb: code to prepare data for autorater evaluation
+- Evaluation_results_all_models.ipynb: code to analyze the evaluation results
+
