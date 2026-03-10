@@ -20,4 +20,6 @@ This folder contains code to generate answers to the questions, evaluate the ans
 - Data_and_gemma_inference.ipynb: code to generate answers using an endpoint of Gemma 2
 - Autorater_evaluation.ipynb: code to prepare data for autorater evaluation
 - Evaluation_results_all_models.ipynb: code to analyze the evaluation results
+- gemma_27_test.ipynb: additional experiment to test the order of prompts
+- autorater_error_analysis.ipynb: evaluate the accuracy of autoraters
 
